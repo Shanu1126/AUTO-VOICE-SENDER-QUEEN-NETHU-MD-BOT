@@ -1,0 +1,2 @@
+# AUTO-VOICE-SENDER-QUEEN-NETHU-MD
+WELCOME TO💞🪴Queen-Nethu-BOT-🪴
