@@ -1,4 +1,4 @@
 {
-	"name": "Tiktokmusic-API",
-	"total-music": "161"
+	"name": "bgm",
+	"total-music": "92"
 }
